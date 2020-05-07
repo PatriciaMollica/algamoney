@@ -101,6 +101,7 @@ public class LancamentoResource {
 	}
 	
 	@ExceptionHandler({ CategoriaInexistenteException.class })
+	@PreAuthorize("hasAuthority('ROLE_CADASTRAR_LANCAMENTO') and #oauth2.hasScope('write')")
 	public ResponseEntity<Object> handleCategoriaInexistenteException(CategoriaInexistenteException ex) {
 		String mensagemUsuario = messageSource.getMessage("categoria.inexistente", null, LocaleContextHolder.getLocale());
 		String mensagemDesenvolvedor = ex.toString();

@@ -5325,3 +5325,15 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2020-05-07 20:12:03,196 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
 2020-05-07 20:12:03,224 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-05-07 20:12:03,224 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\patri\OneDrive\햞ea de Trabalho\Meus estudos\algamoney\algamoney-api\src\test\resources
+2020-05-07 20:12:15,551 [Worker-219: Launching algamoney-api] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\patri\OneDrive\햞ea de Trabalho\Meus estudos\algamoney\algamoney-api
+2020-05-07 20:12:15,551 [Worker-219: Launching algamoney-api] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean install -U
+2020-05-07 20:27:33,089 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 20:27:33,092 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-07 20:27:33,108 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-05-07 20:27:33,110 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 20:27:33,118 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\patri\OneDrive\햞ea de Trabalho\Meus estudos\algamoney\algamoney-api\src\test\resources
+2020-05-07 20:27:34,207 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 20:27:34,216 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-07 20:27:34,227 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-05-07 20:27:34,235 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 20:27:34,235 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\patri\OneDrive\햞ea de Trabalho\Meus estudos\algamoney\algamoney-api\src\test\resources
